@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anureddy K V</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Fincare Mobile Banking**
-
-- 🌱 I’m currently learning **Java Fullstack**
+- 🔭 I’m currently working on **Tosall**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
